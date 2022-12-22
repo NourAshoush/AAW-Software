@@ -9,7 +9,7 @@ root = Tk()
 root.title("AAW Monthly Sales Editor")
 root.geometry("500x500")
 root.resizable(0, 0)
-# root.iconbitmap("Logo-Bioderma.ico")
+root.iconbitmap("/Users/nourashoush/Desktop/My Stuff/Git/AAW-Data-Transfer/aaw_logo.ico")
 
 uploadOriginFileStr = ""
 uploadDestFileStr = ""
