@@ -3,7 +3,7 @@ This is a piece of software which aids in data transfer between 2 excel files of
 
 ### Download
 - [Windows (.exe)](https://github.com/NourAshoush/AAW-Software/raw/main/application/AAW%20Excel%20Editor%20(windows).zip)
-- [Mac (.app)](https://github.com/NourAshoush/AAW-Software/raw/main/application/AAW%20Excel%20Editor%20(macos).zip)
+- [Mac (.app)](https://github.com/NourAshoush/AAW-Software/raw/main/application/AAW%20Excel%20Editor%20(macOS).zip)
 
 This is what the window looks like upon running the application:
 - Mac
